@@ -139,35 +139,6 @@ Fine-tuning freezes the first block of EEGNet and trains only the upper layers (
 </p>
 
 ---
-
-## Repository Structure
-
-```
-NeuroLink/
-├── assets/
-│   └── images/              # README images
-├── data/
-│   └── sample/              # Sample EEG recordings (CSV)
-├── hardware/
-│   └── neurolink_car_esp32.ino   # ESP32 firmware
-├── model/
-│   ├── training/
-│   │   ├── C_final_v11.ipynb                    # Core training notebook
-│   │   └── NeuroLink_Training_Final_v12.ipynb   # 5-subject training
-│   └── neurolink_calibration_system_v5.py       # Calibration + fine-tuning
-├── realtime/
-│   ├── neurolink_semi_realtime.py   # Semi real-time prediction
-│   ├── neurolink_test.py            # Testing utilities
-│   ├── newRec.py                    # EEG recording script
-│   ├── newRec_Auto.py               # Automated recording
-│   └── newTestRec.py                # Test recording
-├── docs/
-│   └── NeuroLink_Report.pdf         # Full project report
-├── results/
-│   └── SEMI_REAL_TIME_RESULTS_v25.pdf
-└── README.md
-```
-
 ---
 
 ## Team
