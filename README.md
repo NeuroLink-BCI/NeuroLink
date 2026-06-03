@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/images/neurolink_logo.png" alt="NeuroLink Logo" width="250"/>
-</p>
 
 <h1 align="center">NeuroLink</h1>
 
