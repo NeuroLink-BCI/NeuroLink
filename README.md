@@ -76,7 +76,7 @@ Wireless Command via ESP32 → Vehicle Action
 
 ---
 
-## ML Model
+## ML&DL Model
 
 **Architecture:** EEGNet (F1=16, D=2, F2=32 — ~4,261 parameters)
 
