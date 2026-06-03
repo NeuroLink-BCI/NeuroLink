@@ -174,7 +174,7 @@ NeuroLink/
 
 | Name | Role |
 |------|------|
-| Buruj Mamdouh Kiahamy | Team Leader — ML & Model Development |
+| Buruj Mamdouh Kiahamy | Team Leader |
 | Layal Falah Alsharif | Team Member |
 | Eithar Ibrahim Babtain | Team Member |
 | Rawaa Majed Abdulhadi | Team Member |
