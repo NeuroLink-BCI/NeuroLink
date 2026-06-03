@@ -139,7 +139,6 @@ Fine-tuning freezes the first block of EEGNet and trains only the upper layers (
 </p>
 
 ---
----
 
 ## Team
 
